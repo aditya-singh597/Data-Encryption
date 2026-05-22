@@ -1,0 +1,42 @@
+Secure Data Encryption Using AES-256 and Quantum Techniques
+================================================================
+Qubits Used: 64
+Generation Attempt: 1
+Eavesdropper Simulation: False
+
+Alice Bits:
+1001001011101100001100000000010000100110111101010110000111101000
+
+Alice Bases:
+× × × + × × + + + × × + × + × + × × + × × × × × × × × + × × × + + + + × + × + × × + × + + + + + + × + × + × + × × × + × + + + +
+
+Bob Bases:
++ + × + × + × + + + + × + × × + + × + + × + × + × + + + × × + + + + × + + + + + × × × + × × × × + + × × × × × × + + + × + + + +
+
+Bob Results:
+0001011010000000001001000100011000000010101111000010100110101000
+
+Shared Secret Key:
+010010001000001000011110001101000
+
+Keys Match: True
+QBER: 0.00%
+Matching Bases: 33
+Discarded Bases: 31
+
+AES-256 Key:
+b44622c6c970b685bfb16774f424480b8fced4cb3cc58922801a1a44c8037a31
+
+Plaintext:
+HELLO WORLD
+
+Encrypted Text:
+/ifbTW8zxmkJ5MMMvwfmHP6IVt8iuWWwr5LjUaOCgZM=
+
+Decrypted Text:
+HELLO WORLD
+
+Visualization Files:
+D:\Qp\Project\outputs\basis_distribution.png
+D:\Qp\Project\outputs\basis_matching.png
+D:\Qp\Project\outputs\key_statistics.png
